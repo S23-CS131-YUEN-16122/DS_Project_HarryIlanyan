@@ -1,7 +1,7 @@
 # Minesweeper AI
 
 ## Project Description
-This project implements an AI to play the classic Minesweeper game. The AI uses propositional logic and knowledge inference to make decisions, aiming to safely navigate through the minefield without detonating any mines.
+This project implements an AI to play the classic Minesweeper game that wins almost every time. The AI uses propositional logic and knowledge inference to make decisions, aiming to safely navigate through the minefield without detonating any mines.
 
 ## Features
 - **AI Game Logic**: Utilizes a knowledge-based approach to identify safe cells and mines.
